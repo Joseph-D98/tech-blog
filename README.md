@@ -18,9 +18,6 @@ npm install dotnev
 npm install --save mysql2
 ```
 
-## Technologies Used
-Inquirer, MySQL
-
 ## License
 MIT
 
